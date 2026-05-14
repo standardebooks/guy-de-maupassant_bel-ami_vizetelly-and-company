@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-6.xhtml">
+		<ignore code="y-031">
+			<line>143</line>
+			<reason>Lint warning is erroneous</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
