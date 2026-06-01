@@ -30,25 +30,25 @@
 		<dc:title id="title">Bel Ami</dc:title>
 		<meta property="file-as" refines="#title">Bel Ami</meta>
 		<dc:subject id="subject-1">Conduct of life -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-1">LCHS</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008100668</meta>
 		<dc:subject id="subject-2">Social classes -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-2">LCHS</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008111427</meta>
 		<dc:subject id="subject-3">Man-woman relationships -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-3">LCHS</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008107175</meta>
 		<dc:subject id="subject-4">Journalists -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-4">LCHS</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008106063</meta>
 		<dc:subject id="subject-5">Seduction -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-5">LCHS</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008111212</meta>
 		<dc:subject id="subject-6">Paris (France) -- History -- 1870-1940 -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-6">LCHS</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<dc:subject id="subject-7">France -- Politics and government -- 1870-1940 -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-7">LCHS</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A former soldier seduces and manipulates women in order to rise through Parisian society.</dc:description>
