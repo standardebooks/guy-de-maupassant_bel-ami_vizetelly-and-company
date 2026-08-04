@@ -52,7 +52,7 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A former soldier seduces and manipulates women in order to rise through Parisian society.</dc:abstract>
+		<meta property="schema:abstract">A former soldier seduces and manipulates women in order to rise through Parisian society.</meta>
 		<dc:description>
 			&lt;p&gt;Georges Duroy returns to Paris from military service in Algeria penniless. After meeting up with an old friend, he finds journalism work at a renowned newspaper. He gradually climbs the ranks to chief-editor—but all this time, he hasn’t been using his wit as a writer, but rather the clever manipulation of the women around him, to get ahead.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Bel Ami&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/guy-de-maupassant"&gt;Guy de Maupassant’s&lt;/a&gt; second novel. It was first published in 1885 and was an instant success, with fifty more editions appearing in the following two years. This translation by Vizetelly &amp;amp; Co. was published in 1888. &lt;i&gt;Bel Ami&lt;/i&gt; shows the rampant corruption prevalent in 19th century French high society.&lt;/p&gt;
