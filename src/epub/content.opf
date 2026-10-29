@@ -74,7 +74,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Vizetelly and Company</dc:contributor>
 		<meta property="file-as" refines="#translator">Vizetelly and Company</meta>
-		<link href="https://id.loc.gov/authorities/names/no91006244.html" refines="#translator" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/nr00000798.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">George Washington Lambert</dc:contributor>
 		<meta property="file-as" refines="#artist">Lambert, George Washington</meta>
@@ -83,10 +83,10 @@
 		<link href="https://id.loc.gov/authorities/names/n97031880.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Juliet, Sutherland</meta>
+		<meta property="file-as" refines="#transcriber-1">Sutherland, Juliet</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Mary, Meehan</meta>
+		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
