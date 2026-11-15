@@ -60,7 +60,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/33928</dc:source>
 		<dc:source>https://www.google.com/books/edition/A_ladies_man_tr_from_Bel_ami/IqGirC2izfcC</dc:source>
-		<meta property="schema:wordCount">108258</meta>
+		<meta property="schema:wordCount">108260</meta>
 		<meta property="schema:educationalLevel">71.75</meta>
 		<link href="https://en.wikipedia.org/wiki/Bel-Ami" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
